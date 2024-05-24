@@ -1,2 +1,2 @@
 # carAnimation
-Criando de uma animação de um carro andando utilizando BSL do Racket
+Criando de uma animação de um carro utilizando BSL do Racket
